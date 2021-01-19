@@ -64,6 +64,39 @@ Con los resultados obtenidos procedemos a realizar los calculos y comparamos que
 | Calculado\| Medido|	Calculado\| Medido| Calculado\| Medido|
 | 24.4 mA \| 24.4 mA |	6.95 mA \| -9.12 mA | 33.53mA\| 33.5mA|
 
+### TABLA DE ERROR
+
+-	Tabla 4.1. Medición de voltaje aplicando superposición.
+
+|VOLTAJE TOTAL (VA)|VOLTAJE TOTAL (VA) CAUNDO V2=0 | VOLTAJE TOTAL (VA) CAUNDO V1=0|
+| :---: | :---: | :---: |
+| Calculado\| Medido|	Calculado\| Medido| Calculado\| Medido|
+| 952V\| 952V|	5.69V\| 7.48V| 6.56V\| 6.53V|
+
+##### PORCENTAJE DE ERROR
+|Medido(V)|	Calculado(V)|	%Error(V)|
+|:---:|:---:|:---:|
+|952	|952	|0 |
+|7.48|	5.69|-31.458 |	
+| 6.53 |	6.56| 0.4573|	
+
+
+
+
+-	Tabla 4.2. Medición de corriente aplicando superposición.
+
+|VOLTAJE TOTAL (IX)|VOLTAJE TOTAL (IX) CAUNDO V2=0 | VOLTAJE TOTAL (IX) CAUNDO V1=0|
+| :---: | :---: | :---: |
+| Calculado\| Medido|	Calculado\| Medido| Calculado\| Medido|
+| 24.4 mA \| 24.4 mA |	6.95 mA \| -9.12 mA | 33.53mA\| 33.5mA|
+
+##### PORCENTAJE DE ERROR
+ | Medido(I)|	Calculado(I)| 	%Error(I) |
+ |---|---|---|
+ | 24.4	| 24.4	|0 |
+ | -9.12 | 6.95 |231.22 |	
+ |  33.5 |	33.53|  0 |
+
 
 ### CALCULOS:
 
